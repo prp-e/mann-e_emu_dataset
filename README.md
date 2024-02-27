@@ -10,4 +10,5 @@ Also the prompts used in order to create the images are stored in `caption` file
 ### Sample image
 
 <p align="center">
+    <img src="sample.png" width=1024 height=1024>
 </p>
